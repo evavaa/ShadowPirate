@@ -10,28 +10,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68992d6f-1e3c-4d38-9c69-7b3051ad8c4f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/BlackBeard.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BlackBeard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Block.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Block.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Bomb.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Bomb.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Elixir.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Elixir.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Enemy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Enemy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/GameEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/GameEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/HealthBar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/HealthBar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Item.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Level.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Level.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Level0.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Level0.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Level1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Level1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MovingEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MovingEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pirate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pirate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Potion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Potion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Projectile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Projectile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProjectileBlack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProjectileBlack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Sailor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Sailor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ShadowPirate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ShadowPirate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Sword.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Sword.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Treasure.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Treasure.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bagel.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BlackBeard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Block.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Bomb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Elixir.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Enemy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GameEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/HealthBar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Level.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Level0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Level1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MovingEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pirate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Potion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Projectile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProjectileBlack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Sailor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ShadowPirate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Sword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Treasure.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +62,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
@@ -72,7 +72,7 @@
       <recent name="$PROJECT_DIR$/out/artifacts/bagel_jar" />
     </key>
   </component>
-  <component name="RunManager" selected="JAR Application.runnable">
+  <component name="RunManager" selected="Application.main">
     <configuration name="main" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.2/Contents/Home" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -102,7 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1751510082884</updated>
-      <workItem from="1751510084669" duration="2065000" />
+      <workItem from="1751510084669" duration="2852000" />
     </task>
     <servers />
   </component>
