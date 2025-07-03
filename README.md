@@ -2,6 +2,12 @@
 
 Navigate through pirate-infested waters, battle enemies, collect treasures, and complete your maritime adventure!
 
+<img width="1018" alt="image" src="https://github.com/user-attachments/assets/17055ae6-ccbb-4ff7-8663-0843696e7524" />
+
+<img width="1022" alt="image" src="https://github.com/user-attachments/assets/58e8e699-9ed7-4e2c-a2fb-4f4031fe1970" />
+
+
+
 ## ✨ Features
 
 ShadowPirate is a 2D action-adventure game featuring:
